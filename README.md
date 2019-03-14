@@ -1,5 +1,5 @@
 # powershell-powertools
-Dev snippets to get the best from Powershell
+Powershell snippet to change build number on AssemblyInfo.cs
 
 Usage:
 
