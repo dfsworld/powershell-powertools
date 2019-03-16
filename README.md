@@ -1,5 +1,6 @@
 # powershell-powertools
 Powershell snippet to change build number on AssemblyInfo.cs
+(more to come)
 
 Usage:
 
